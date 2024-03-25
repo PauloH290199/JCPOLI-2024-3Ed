@@ -14,7 +14,7 @@ export const ComiteListOrganization =
     },
 
     {
-      coordenador: 'CARMEN CECÍLIA CENTENO',
+      coordenador: 'Vicente',
       area: 'Coordenadora de Ciência da Computação'
     },
 
