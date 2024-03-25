@@ -17,11 +17,11 @@
 
                 <div>
                   <div>
-                    <span class="date">08 a 10 de Maio de 2023</span>
+                    <span class="date">17 a 20 de abril de 2024</span>
                   </div>
                   <hr />
                   <div>
-                    <span class="jcecec">II JCPOLI</span>
+                    <span class="jcecec">III JCPOLI</span>
                   </div>
                   <div>
                     <span class="jcecec-sub">
@@ -31,7 +31,7 @@
                   <hr />
                   <div>
                     <span id="description">
-                      O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida
+                      O uso da Inteligência Artificial a serviço da sociedade
                     </span>
                   </div>
                 </div>
