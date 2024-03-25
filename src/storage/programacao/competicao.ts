@@ -1,44 +1,41 @@
 const Competicao = [
   {
     title: "xx",
-  instructor: "xx",
-  institution: "xx",
-  desc: `xx`,
-  date: "xx",
-  time: "xx",
-  place: "xx",
-  image: "xx"
+    instructor: "xx",
+    institution: "xx",
+    desc: `xx`,
+    date: "xx",
+    time: "xx",
+    place: "xx",
+    image: "xx"
   },
-
   {
     title: "xx",
-  instructor: "xx",
-  institution: "PUC Goiás",
-  desc: `xx`,
-  inscrevase:"xx",
-  datainscri:"xx",
-  editais: "xx",
-  vencedor:"xx",
-  date: "",
-  time: "",
-  place: "",
-  image: "xx"
+    instructor: "xx",
+    institution: "PUC Goiás",
+    desc: `xx`,
+    inscrevase:"xx",
+    datainscri:"xx",
+    editais: "xx",
+    vencedor:"xx",
+    date: "",
+    time: "",
+    place: "",
+    image: "xx"
   },
-
   {
     title: "xx",
-  instructor: "xx",
-  institution: "PUC Goiás",
-  desc: "xx".replace(/\n/g, "<br>"),
-  inscrevase:"xx",
-  datainscri:"xx",
-  editais:"xx",
-  date: "xx",
-  time: "xx",
-  place: "xx",
-  image: "xx"
+    instructor: "xx",
+    institution: "PUC Goiás",
+    desc: "xx".replace(/\n/g, "<br>"),
+    inscrevase:"xx",
+    datainscri:"xx",
+    editais:"xx",
+    date: "xx",
+    time: "xx",
+    place: "xx",
+    image: "xx"
   },
-
   {
     title: "xx",
     instructor: "xx",
@@ -49,7 +46,6 @@ const Competicao = [
     time: "xx",
     place: "xx",
   },
-
   {
     title: "xx",
     instructor: "xx",
@@ -65,9 +61,7 @@ const Competicao = [
     vencedor:"xx",
     place: "xx",
   },
-
 ]
-
 
 export const Competicoes = [
   {
