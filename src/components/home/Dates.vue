@@ -56,17 +56,17 @@ export default class Dates extends Vue {
 
   private dates = [
     {
-      date: '10 a 23 de Abril de 2023',
+      date: '01 a 23 de Março de 2024',
       event: 'Período para encaminhamento dos artigos e resumos expandidos',
       disabled: false
     },
     {
-      date: 'Até 01 de Maio de 2023',
+      date: 'Até 24 de Março de 2024',
       event: 'Período para avaliação, revisão e correção dos artigos e resumos expandidos',
       disabled: false
     },
     {
-      date: '09 de Maio de 2023',
+      date: '19 de Março de 2024',
       event: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
       disabled: false
     }
