@@ -7,102 +7,77 @@ export const ComiteListOrganization =
       coordenador: 'MÍRIAN SANDRA ROSA GUSMÃO',
       area: 'Diretora da Escola Politécnica'
     },
-
     {
       coordenador: 'ANDRÉ LUIZ ALVES',
       area: 'Coordenador de Engenharia de Computação'
     },
-
     {
-      coordenador: 'CARMEN CECÍLIA CENTENO',
-      area: 'Coordenadora de Ciência da Computação'
+      coordenador: 'VICENTE PAULO DE CAMARGO',
+      area: 'Coordenador de Ciência da Computação'
     },
-
     {
       coordenador: 'CASSIO HIDEKI FUJISAWA',
-      area: 'Coordenador de Engenharia de Controle e Automação'
+      area: 'Coordenador de Engenharia Elétrica e Engenharia de Controle e Automação'
     },
-
-    {
-      coordenador: 'FELIPE DE SOUSA NOBRE',
-      area: 'Coordenador de Engenharia Elétrica'
-    },
-
     {
       coordenador: 'FREDERICO ANDRÉ RABELO',
       area: 'Coordenador de Arquitetura e Urbanismo'
     },
-
     {
       coordenador: 'GENILDA DA SILVA ALEXANDRIA SOUSA',
       area: 'Coordenadora de Design'
     },
 
     {
-      coordenador: 'JORIVER RODRIGUES CANEDO',
-      area: 'Coordenador de Análise e Desenvolvimento de Sistemas (ADS)'
-    },
-
-    {
       coordenador: 'LUCIANA CASALETTI',
-      area: 'Coordenadora de Engenharia de Produção e Membro do Núcleo de Apoio Pedagógico (NAP)'
+      area: 'Coordenadora de Engenharia de Alimentos e Engenharia de Produção'
     },
-
+    
     {
-      coordenador: 'MARTA PEREIRA DA LUZ',
-      area: 'Coordenadora de Engenharia Civil'
+      coordenador: 'LUIZ ÁLVARO DE OLIVEIRA JÚNIOR',
+      area: 'Coordenador de Engenharia Civil'
     },
-
-  
     {
       coordenador: 'MARTHA NASCIMENTO CASTRO',
       area: 'Coordenadora de Agronomia'
     },
-
     {
       coordenador: 'SALMEN CHAQUIP BUKZEM',
       area: 'Coordenador de Ciências Aeronáuticas'
-    }, 
-
+    },       
+    {
+      coordenador: 'WANDERSON RAINER HILARIO DE ARAUJO',
+      area: 'Coordenador de Engenharia de Controle e Automação'
+    },
     {
       coordenador: 'ANA FLÁVIA MARINHO DE LIMA GARROTE',
-      area: 'Coordenadora do curso de Análise e Desenvolvimento de Sistemas EAD e Membro do Núcleo de Apoio Pedagógico (NAP)'
+      area: 'Coordenadora do curso de Análise e Desenvolvimento de Sistemas e Membro do Núcleo de Apoio Pedagógico (NAP)'
     },
-
-    {
-      coordenador: 'GUSTAVO SIQUEIRA VINHAL',
-      area: 'Coordenador do curso de Big Data e Inteligência Artificial EAD'
-    },
-
     {
       coordenador: 'LUDMILLA REIS PINHEIRO DOS SANTOS',
       area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
-    },
-
+    },    
     {
-      coordenador: 'LUIZ ÁLVARO DE OLIVERIA JÚNIOR',
-      area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
+      coordenador: 'RAFAEL OLIVEIRA PORFÍRIO',
+      area: 'Estagiário da III JCPOLI'
     },
-
     {
-      coordenador: 'LURI SABINA COSME DA SILVA MATOS',
-      area: 'Membro do Núcleo de Apoio Pedagógico (NAP)'
+      coordenador: 'PAULO HENRIQUE GARCIA RIBEIRO',
+      area: 'Estagiário da III JCPOLI'
     },
-
     {
-      coordenador: 'NERCÍLIO ANTÔNIO URIAS CAVALCANTE JÚNIOR',
-      area: 'Estagiário da II JCPOLI'
+      coordenador: 'NAEL BARRETO MARQUES',
+      area: 'Estagiario da III JCPOLI'
     },
-
     {
-      coordenador: 'GABRIEL BANDEIRA',
-      area: 'Estagiário da II JCPOLI'
+      coordenador: 'RAFAEL DE MATOS ABE',
+      area: 'Estagiario da III JCPOLI'
     },
-
     {
-      coordenador: 'GABRIEL SOARES RIBEIRO',
-      area: 'Estagiário da II JCPOLI'
+      coordenador: 'YVES YUJI CARVALHO MONMA',
+      area: 'Estagiario da III JCPOLI'
     },
+    
   ]
 
 export const ComiteListCientific = 
@@ -146,14 +121,6 @@ export const ComiteListCientific =
       area: 'Doutorado em Engenharia Elétrica - UnB'
     },
     
-    {
-      coordenador: 'Pedro Henrique Maximo Pereira',
-      area: 'Doutorado em Arquitetura e Urbanismo - UnB'
-    },
-    {
-      coordenador: 'Ricardo Luiz Machado',
-      area: 'Doutorado em Engenharia de Produção - UFSC'
-    },
     {
       coordenador: 'Solange Da Silva',
       area: 'Doutorado em Engenharia Elétrica - UFU'
