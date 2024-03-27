@@ -312,7 +312,7 @@ let Palestras = [
     date: 'xx',
     time: 'xx',
     place: 'xx',
-    link: xx'
+    link: 'xx'
   },
   {
     title: 'xx',
