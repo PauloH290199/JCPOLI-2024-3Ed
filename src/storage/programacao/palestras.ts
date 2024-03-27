@@ -101,7 +101,7 @@ export default [{
     speaker: "xx",
     time: "xx",
 }, {
-    date: xx",
+    date: "xx",
     description: "xx",
     place: "xx",
     speaker: "xx",
