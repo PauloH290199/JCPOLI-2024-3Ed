@@ -349,63 +349,63 @@ export default class Escola extends Vue {
     super()
     this.speakers = [
       {
-    name: 'Me. Alberto Vilela Chaer',
+    name: 'xx',
     institution: 'PUC Goiás',
-    speaking: 'Aplicações em Engenharia utilizando o software Smath Solver',
-    description: `Mestre em Engenharia Civil / Estruturas pela Pontifícia Universidade Católica do Rio de Janeiro (1991). Graduado em Engenharia Civil pela Universidade Federal de Goiás (1986). Atualmente é Professor Adjunto-I do Curso de Engenharia Civil da Escola de Engenharia da Pontifícia Universidade Católica de Goiás (desde 1989) e Professor Assistente-I do Curso de Engenharia Civil da Escola de Engenharia Civil da Universidade Federal de Goiás (desde 2009). Tem experiência na área de Engenharia Civil, com ênfase em Estruturas de Concreto Armado e Protendido (Experiência Acadêmica: Magistério do Ensino Superior; Experiência Profissional: Elaboração de Projetos de Estruturas em Concreto Armado e Protendido; Consultoria em Estruturas). Poeta. Escreve poemas desde 1980. Artista visual. Produz poesia visual desde 2005.`,
-    subjectResume: `O minicurso “Aplicações em Engenharia utilizando o software Smath Solver” tem como objetivo apresentar as possibilidades que este programa – gratuito a partir de download em página oficial na web (https://en.smath.com/view/SMathStudio/summary) – oferece para elaboração de cálculos e geração da respectiva memória de cálculo de um problema qualquer que tenha sua resolução a partir de utilização de expressões matemáticas.  Trata-se de um programa bastante robusto e amplamente conhecido pelo nome de “SMath Studio” utilizado em universidades do Brasil e exterior, sendo uma ferramenta de sedimentação do processo ensino-aprendizagem, através da simulação dos eventos envolvidos em um cálculo. O benefício da utilização deste programa é utilizar da rapidez dos cálculos feitos por meio da máquina, cujas operações e lógica são conduzidas pelo desenvolvimento do usuário, para que se possa tomar conclusões e decisões a partir dos resultados. Uma ferramenta que se constitui em um “caderno de exercícios” de Professores, Estudantes e Profissionais de Engenharia. Recomenda-se que os participantes do referido minicurso acessem a sessão por meio de computador pessoal (sistema operacional Windows e Linux; também por versão Open in browser) para melhor rendimento durante a preleção e atividades propostas, apesar de que o software também tem sua versão gratuita para ser instalada em aparelho celular no sistema Android.`,
-    img: '/assets/img/speakers/albertovilela.jpg',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '09/05',
-      time: '14:00-18:00',
-      place: 'Online: Microsoft Teams'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
   
   {
-    name: 'Alessandro Miguel de Oliveira',
+    name: 'xx',
     institution: 'PUC Goiás',
-    speaking: 'Ferramentas computacionais para o desenho de projeto de arquitetura',
-    description: `Graduado em Arquitetura e Urbanismo pela Pontifícia Universidade Católica de Goiás (2008) e pós-graduado lato sensu em Projeto de Arquitetura pela Faculdade Ávila de Ciências Humanas e Exatas (2011). Atualmente exerce a atividade de docência como Professor Horista Auxiliar I pela Pontifícia Universidade Católica de Goiás desde 2014, nas disciplinas: desenho projetivo; expressão e representação; informática aplicada à arquitetura e projeto arquitetônico; e atua como arquiteto em escritório próprio. Tem experiência em Arquitetura e Urbanismo nas áreas de docência em arquitetura, arquitetura hospitalar, industrial, residencial, arquitetura de interiores, arquitetura promocional, representação gráfica, informática aplicada à Arquitetura e Urbanismo e computação gráfica.`,
-    subjectResume: `Uso do AutoCAD para o desenho de projeto, geometria descritiva, elementos constitutivos das edificações e representação arquitetônica.`,
-    img: '/assets/img/speakers/alessandromiguel.jpg',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '08, 09 e 10/05',
-      time: '14:00-17:00',
-      place: 'Presencial: Laboratóro 102, Bloco B, Área III'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
   
   {
-    name: 'Lucas Ribeiro Camargo Mendes',
-    institution: 'MRV Engenharia',
-    speaking: 'Processo construtivo da parede de concreto e produtividade',
-    description: `Engenheiro Civil, formado na Uni-Goiás em 2019/2, atuando a 7 anos na construção civil e a 2 anos como Engenheiro residente de obras em parede de concreto pela MRV ENGENHARIA. Pós-Graduando em Gestão de Projetos e Processos pelo IPOG..`,
-    subjectResume: `Processo construtivo da parede de concreto e produtividade`,
-    img: '/assets/img/speakers/lucasribeiro.png',
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '09/05',
-      time: '08:00-09:30',
-      place: 'Presencial: Auditório 3'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
 
 
   {
-    name: 'Karine de Souza Costa',
-    institution: 'URBS Connect',
-    speaking: 'Mesa Bistrô URBS',
-    description: `Formada em Recursos Humanos pela Uni-Anhanguera. Pós -graduada em RH 4.0. Responsável pela área de treinamentos da URBS Connect.`,
-    subjectResume: `Mesa Bistrô URBS`,
-    img: '/assets/img/speakers/karinesouza.png',
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '10/05',
-      time: '19:00-20:30',
-      place: 'Presencial: Hall de entrada da Área III'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
 
@@ -425,104 +425,99 @@ export default class Escola extends Vue {
   },*/
  
   {
-    name: 'André Luiz Dias da Silva',
-    institution: 'DN Engenharia',
-    speaking: 'Engenharia de Segurança no Agronegócio',
-    description: `Engenheiro de Controle e Automação e Engenheiro de Segurança do Trabalho que atua na DN Engenharia com ênfase em segurança do trabalho no Agronegócio.`,
-    subjectResume: `A engenharia de segurança no Agronegócio é importante para garantir a segurança dos trabalhadores e do ambiente de trabalho, bem como para aumentar a eficiência e a produtividade das atividades agrícolas. Conta com planejamento de medidas de prevenção e controle de incêndios nas áreas de plantio e armazenamento de produtos agrícolas, Desenvolvimento de estratégias para prevenção de acidentes com máquinas agrícolas, Implantação de medidas de segurança alimentar, como a adoção de boas práticas agrícolas e o controle de qualidade dos alimentos produzidos, Projeto de instalações de armazenamento de produtos agrícolas seguras e eficientes, incluindo sistemas de ventilação e controle de temperatura.`,
-    img: '/assets/img/speakers/andreluiz.jpg',
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '09/05',
-      time: '08:00-09:30',
-      place: 'Presencial: Auditório 2'
+      date: xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
 
   { 
-    name: 'Scheila Ronconi Da Rolt',
-    institution: 'Araguaia produtos agropecuários ', 
-    speaking: 'Controle fitossanitário em hortaliças',
-    description: `Engenheira Agrônoma, Coordenadora Técnica de Hortifruti - GO/MT na empresa Araguaia produtos agropecuários.`,
-    subjectResume: `Controle fitossanitário em hortaliças é o conjunto de medidas adotadas para proteger as plantas cultivadas de doenças, pragas e outros agentes que possam afetar sua saúde e qualidade. Essas medidas podem incluir a adoção de práticas culturais adequadas, como rotação de culturas e manejo do solo, o uso de defensivos agrícolas quando necessário e a adoção de estratégias de controle biológico e integrado de pragas. O objetivo do controle fitossanitário é garantir a saúde e a produtividade das plantas, bem como a segurança alimentar e a proteção do meio ambiente. Além disso, o controle fitossanitário também pode contribuir para a sustentabilidade da produção agrícola, reduzindo o uso de defensivos químicos e promovendo práticas preventivas e curativas mais sustentáveis e ecologicamente corretas.`,
-    img: '/assets/img/speakers/scheilaronconi.jpg',
+    name: 'xx',
+    institution: 'xx', 
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '08/05',
-      time: '08:00-09:30',
-      place: 'Presencial: Auditório 2'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
 
   { 
-    name: 'Lorenzo Czepak Gaston e Ana Makowich ',
-    institution: 'Drones on Farm e MIP-UFG ',
-    speaking: 'Uso de drones para liberação de macrobiológicos ',
-    description: `Lorenzo Czepak Gaston é sócio proprietário da Drones on Farm, empresa especializada na liberação de macrobiológicos através de drones agrícolas e possui mais de 5 anos de experiência com manutenção e operação de drones agrícolas. 
-    Ana Makowich é engenheira agrônoma formada pela Universidade Federal de Goiás, coordenadora em Aviação Agrícola e mestranda em Fitossanidade no PPGA/EA/UFG.`,
-    subjectResume: `O uso de drones para liberação de macrobiológicos é uma técnica inovadora que tem sido cada vez mais utilizada na agricultura para controle biológico de pragas. Macrobiológicos são organismos vivos, como insetos, ácaros e nematoides, que são utilizados para o controle de pragas agrícolas, em substituição aos agrotóxicos.
-    Os drones são utilizados para liberar os macrobiológicos nas áreas de cultivo de forma mais eficiente e precisa, em comparação com a liberação manual. Com o uso dos drones, é possível alcançar áreas de difícil acesso e distribuir os macrobiológicos de maneira uniforme, reduzindo o desperdício e aumentando a eficácia do controle biológico.
-    Além disso, o uso de drones para liberação de macrobiológicos também pode reduzir os custos e o tempo necessários para a aplicação dos organismos de controle biológico, em comparação com as técnicas convencionais. A técnica também pode contribuir para a redução do uso de defensivos químicos e a promoção de práticas mais sustentáveis na agricultura.`,
-    img: '/assets/img/speakers/lorenzoana.jpg',
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '08/05',
-      time: '10:00-11:30',
-      place: 'Presencial: Auditório 2'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
 
   {
-    name: 'Jefferson Lins',
-    institution: 'Universidade de São Paulo',
-    speaking: 'Durabilidade de Geossintéticos',
-    description: `Professor Associado da USP, Depto. de Geotecnia da EESC
-    Graduado em Engenheiro Civil - UFAL (2004), Mestre em Geotecnia - EESC/USP (2006), Doutor em Eng. Civil (Eng. de Estruturas) - EESC/USP (2011) com período sanduíche na University of Nebraska-Lincoln - EUA (2010). Pós-Doutor em Eng. Civil pela EESC/USP (2013) e pela Universidade do Porto - Portugal (2017). Livre-docente em Geotecnia pelo SGS-EESC-USP (2019). Leciona para os cursos de graduação em Engenharia Civil e Engenharia Ambiental sobre temas relacionados à Mecânica dos solos e Geossintéticos. É professor permanente no Programa de Pós-Graduação em Geotecnia e no Programa de Pós-graduação em Engenharia de Transportes, ambos na EESC/USP. Responsável pelo Laboratório de Geossintéticos da EESC/USP. Coordenador do Curso de Engenharia Civil da EESC/USP desde 2019. Vice-Chefe do Departamento de Geotecnia (SGS) da EESC/USP desde 2021. Coordenador da Comissão de Estudo Especial de Geossintéticos da Associação Brasileira de Normas Técnicas (ABNT) de 2014 a 2020. Parecerista de agências de fomento e de congressos e revistas nacionais e internacionais. Membro de sociedades de cunho científico e tecnológico, cultural e profissional: ABMS, ANPET, IGS e ABRATEC.`,
-    subjectResume: 'Durabilidade de Geossintéticos',
-    img: '/assets/img/speakers/jeffersonlins.jpg',
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
+    description: `xx',
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '09/05',
-      time: '19:00 - 20:30',
-      place: 'Online: YouTube',
-      link:'https://www.youtube.com/watch?v=8kJZoBHnn_4'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx',
+      link:'xx'
     }
   },
 
   {
-    name: 'Maria Alejandra Aparicio Ardila',
-    institution: 'Nortene Plásticos',
-    speaking: 'Aplicações geotécnicas e ambientais das geomembranas',
-    description: `Possui graduação em Engenheira Civil pela Universidade Industrial de Santander- Colômbia (2016) e mestrado em Geotecnia pela Universidade de São Paulo - EESC/USP (2020) na linha de pesquisa de geossintéticos. No mercado profissional tem experiência em elaboração e gerenciamento de projetos, realização de orçamentos e execução e acompanhamento de obras civis. Experiência na realização de ensaios geotécnicos e de geossintéticos. No âmbito acadêmico, desenvolve estudos nas áreas de Melhoria dos Solos, Geossintéticos e Bioengenharia, através da participação de grupos de pesquisa associados ao laboratório de geossintéticos da USP. Atualmente é doutoranda no programa de Geotecnia da EESC/USP estudando desaguamento de resíduos por meio de tubos geotêxteis. Secretária da Comissão de Estudo Especial de Geossintéticos (ABNT/CEE-175) desde 2021 e membro do núcleo jovem da IGS Brasil desde 2019.`,
-    subjectResume: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
-    img: '/assets/img/speakers/mariaalejandra.jpg',
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '10/05',
-      time: '10:00-11:30',
-      place: 'Presencial: Auditório 2'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
 
   {
-    name: 'Patrick Morais de Souza Lima',
-    institution: 'Gerente de Engenharia e Qualidade de Software na GFT Technologies',
-    speaking: 'TI: Caminhos e oportunidades dentro de um mar de possibilidades',
-    description: `Me chamo Patrick Morais, sou Goiano, possuo mais de 12 anos na área de TI. Sou bacharel em Ciência da Computação pela PUC, Especialista em Gestão de Projetos de TI pela USP, Diplomado em liderança e tecnologia pelo Tecnólogico de Monterrey no México, atualmente QA Manager no grupo GFT. Falo sobre tecnologia e migração de carreiras e nas horas vagas gosto de me dedicar aos esportes radicais.`,
-    subjectResume: `Atualmente, nós da área de TI, vivemos em um mundo de possibilidades e incertezas. Foi pensando nisso que trouxe o tema "TI: Caminhos e oportunidades dentro de um mar de possibilidades", que irá falar um pouco de como planejar e o que fazer para ter uma carreira promissora dentro da área que mais cresce mundialmente. Qual caminho seguir? Como escolher sua carreira? Como ser um profissional desejado pelas empresas de tecnologia? Tudo isso será discutido no dia 10/05. Nos vemos lá!`,
-    img: '/assets/img/speakers/patrick-morais-de-souza-lima.jpg',
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
+    description: `xx`,
+    subjectResume: `xx`,
+    img: 'xx',
     customSize: '100%',
     datentime: {
-      date: '09/05',
-      time: '20:30-22:00',
-      place: 'Presencial: Auditório 1'
+      date: 'xx',
+      time: 'xx',
+      place: 'xx'
     }
   },
 
-  {
-    name: 'Rangel Henrique Brandão Silva, Frederico André Rabelo e Guilherme de Andrade Bento',
-    institution: 'Rangel Henrique Brandão Silva - UEG e RGB Estúdio | Frederico André Rabelo - PUC Goiás, UFG e RGB Estúdio | Guilherme de Andrade Bento - PUC Goiás e RGB Estúdio',
-    speaking: 'Concursos de Projeto',
+  /*{
+    name: 'xx',
+    institution: 'xx',
+    speaking: 'xx',
     description: `Rangel Henrique Brandão Silva - Mestre em Arquitetura - Projetos digitais pela FAV-UFG (2019), MBA em Gestão de Projeto em Engenharia e Arquitetura pelo IPOG (2014), Graduação em Arquitetura e Urbanismo pela PUC-GO (2011) . Sócio-fundador da RGB Estúdio, parceiro da Espaço Equipe de Planejamento e Arquitetura (Arquitetos Fernando Carlos Rabelo e Frederico André Rabelo). Experiência em projetos de médio e grande porte de Arquitetura e Urbanismo com ênfase na tecnologia BIM. Participa de concursos de projetos de arquitetura já obteve premiações e menções honrosas. Professor no curso de Arquitetura e Urbanismo da Universidade Estadual de Goiás - UEG.
     Frederico André Rabelo - Possui graduação em Arquitetura e Urbanismo pela Pontifícia Universidade Católica de Goiás (1994) e mestrado em Arquitetura pela Universidade Federal do Rio Grande do Sul (2007). Atualmente é diretor técnico da Espaço Equipe de Planejamento Arquitetura e Consultoria ltda. e da Tecto Construtora ltda., Professor Assistente 1 da Pontifícia Universidade Católica de Goiás, lotado na Escola de Artes e Arquitetura e atual Coordenador do Curso e Professor Adjunto 2 da Universidade Federal de Goiás, lotado na Faculdade de Artes Visuais. Tem experiência na área de Arquitetura e Urbanismo, com ênfase em Planejamento e Projetos de Edificação e Urbanismo e Construção de Edificações.
     Guilherme de Andrade Bento - Possui graduação pela Pontifícia Universidade Católica de Goiás (2011) e Especialista em Docência no Ensino Superior pela FABEC (2014). Atualmente é sócio-fundador da RGB Estúdio, trabalha em parceria com o escritório Espaço Equipe de Planejamento e Arquitetura (Arquitetos Fernando Carlos Rabelo e Frederico André Rabelo), professor na Pontifícia Universidade Católica de Goiás (PUC GO). Experiência na área de Arquitetura e Urbanismo com ênfase em projetos de médio a grande porte.`,
@@ -534,7 +529,7 @@ export default class Escola extends Vue {
       time: '08:00-10:00',
       place: 'Presencial: Auditório 1'
     }
-  },
+  },*/
 
   {
     name: 'Evelyn Cristine Moreira Soares',
