@@ -293,7 +293,7 @@
         Engenharia de Produção e Sistemas(
         <a
           id="mepros"
-          href="https://sites.pucgoias.edu.br/pos-graduacao/mestrado-engenharia-producao-sistemas/"
+          href="https://www.pucgoias.edu.br/mestrado-e-doutorado/engenharia-de-producao-e-sistemas/"
           target="_target"
           >MEPROS</a
         >
