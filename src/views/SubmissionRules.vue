@@ -511,45 +511,6 @@
           </div>
 
           <div class="info-arquivo">
-            <h4>Edital do I Concurso de Fotografia da Escola Politécnica e de Artes</h4>
-            <v-btn
-              type="submit"
-              color="primary"
-              href="/assets/Concurso_Artes.pdf"
-              target="_blank"
-            >
-              ACESSAR EDITAL
-              <v-icon right dark>cloud_download</v-icon>
-            </v-btn>
-          </div>
-
-          <div class="info-arquivo">
-            <h4>Edital do Desafio de Ciência dos Dados</h4>
-            <v-btn
-              type="submit"
-              color="primary"
-              href="/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2023-0305.pdf"
-              target="_blank"
-            >
-              ACESSAR EDITAL
-              <v-icon right dark>cloud_download</v-icon>
-            </v-btn>
-          </div>
-
-          <div class="info-arquivo">
-            <h4>Edital do CodeCraft</h4>
-            <v-btn
-              type="submit"
-              color="primary"
-              href="/assets/Edital-CodeCraft-2023-1.pdf"
-              target="_blank"
-            >
-              ACESSAR EDITAL
-              <v-icon right dark>cloud_download</v-icon>
-            </v-btn>
-          </div>
-
-          <div class="info-arquivo">
             <h4>Certificado:</h4>
             <v-btn
               type="submit"
@@ -568,19 +529,6 @@
               type="submit"
               color="primary"
               href="/assets/JCPOLI_II_template.docx"
-              target="_blank"
-            >
-              ACESSAR TEMPLATE
-              <v-icon right dark>cloud_download</v-icon>
-            </v-btn>
-          </div>
-
-          <div class="info-arquivo">
-            <h4>Template de resumo estendido:</h4>
-            <v-btn
-              type="submit"
-              color="primary"
-              href="/assets/Template_resumo_expandido_JCPOLI.docx"
               target="_blank"
             >
               ACESSAR TEMPLATE
