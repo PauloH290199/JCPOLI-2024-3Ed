@@ -20,8 +20,8 @@
                 <h5>QUANDO</h5>
               </div>
               <span id="quando">
-                De 08 a 10 de
-                <br />maio de 2023
+                De 17 a 20 de
+                <br />abril de 2024
               </span>
               <!-- </v-flex> -->
               <!-- <v-flex> -->
@@ -63,8 +63,8 @@
           <v-layout class="subcall text-left">
             <v-flex>
               <p class="text-justify text-center">
-                A II JCPOLI será realizada de 8 a 10 de Maio de 2023, com tema:
-                O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida. 
+                A III JCPOLI será realizada de 17 a 20 de Abril de 2024, com tema:
+                O uso da Inteligência Artificial a serviço da sociedade. 
                 É com alegria que o convidamos para enviar um artigo para o comitê científico.
               </p>
             </v-flex>
@@ -90,7 +90,7 @@
             <v-flex>
               <hr />
               <p>
-                &copy; 2º Jornada Científica da Escola Politécnica - II JCPOLI 2023
+                &copy; 3º Jornada Científica da Escola Politécnica - III JCPOLI 2024
               </p>
             </v-flex>
           </v-layout>
