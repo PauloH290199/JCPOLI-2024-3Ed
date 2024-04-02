@@ -90,7 +90,7 @@
             <v-flex>
               <hr />
               <p>
-                &copy; 3º Jornada Científica da Escola Politécnica - III JCPOLI 2023
+                &copy; 3º Jornada Científica da Escola Politécnica - III JCPOLI 2024
               </p>
             </v-flex>
           </v-layout>
