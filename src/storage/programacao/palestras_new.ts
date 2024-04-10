@@ -193,7 +193,6 @@ let Palestras = [
   {
     title: "Trajetórias pelo Design",
     instructor: 'João Tiago Camargo',
-    institution: "PUC Goiás",
     /*desc: `A palestra "Ai.rtista: uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte" aborda o desafio dos artistas em construir uma imagem digital coerente e atraente, que possa ajudá-los a se destacar no mercado da arte. O palestrante apresenta o conceito de Midjourney, que é uma ferramenta que ajuda os artistas a desenvolverem sua marca pessoal e construírem uma presença online consistente e eficaz. No entanto, o palestrante também aborda as barreiras que os artistas enfrentam nesse processo, como a falta de conhecimento técnico em marketing digital e a dificuldade em conciliar a produção artística com a gestão da imagem digital. A palestra busca oferecer insights e dicas práticas para que os artistas possam superar essas barreiras e construir uma imagem digital sólida e impactante.`,*/
     date: "18/04",
     time: "08:30",
@@ -204,10 +203,9 @@ let Palestras = [
   {
     title: "Trajetórias em Design",
     instructor: "Ricardo Queiroz",
-    institution: "PUC Goiás",
     /*desc: `xx`,*/
     date: "18/04",
-    time: "10:00",
+    time: "10:30",
     place: "Online",
     link: "https://www.youtube.com/watch?v=UUlrAXK6Ltk"
   },
@@ -215,7 +213,6 @@ let Palestras = [
   {
     title:"Startups e ideias disruptivas",
     instructor: "Everaldo Lopes dos Santos",
-    institution: "Puc Goiás",
     /*desc: `xx`,*/
     date: "16/04",
     time: "19:00",
@@ -226,7 +223,6 @@ let Palestras = [
   {
     title: "Inteligência Artificial aplicada nas Pesquisas Científicas",
     instructor: "Lucas de Suza Rodrigues",
-    institution: "Puc Goiás",
     /*desc: `xx`,*/
     date: "11/04",
     time: "08:30",
@@ -237,7 +233,6 @@ let Palestras = [
   {
     title: "Potencialidades do Design",
     instructor: "Fernando Felipe",
-    institution: "Puc Goiás",
     /*desc: `xx`,*/
     date: "17/04",
     time: "19:30",
@@ -249,17 +244,18 @@ let Palestras = [
     title: "Design inclusivo, exclusivo e ancestral ",
     instructor: "Ester Carro",
     institution: "PUC Goiás",
-    /*desc: `xx`,*/
+    desc: `Ester Carro vem falar sobre o Fazendinhando que é um instituto de transformação territorial, cultural e socioambiental que atua em favelas, feito por e para os moradores.
+
+    Esta palestra será transmitida ao vivo no Auditório 1, área II.`,
     date: "19/04",
     time: "10:30",
-    place: "Online",
+    place: "Online Transmissão no Auditório 1, área II",
     link: "https://www.youtube.com/watch?v=pZjeisIMHZM"
   },
   
   {
     title: "Como se Planejar para uma Carreira de TI Internacional",
     instructor: "Juliana Moreira Barbosa",
-    institution: "PUC Goiás",
     /*desc: `xx`,*/
     date: "16/04",
     time: "20:30",
@@ -270,7 +266,6 @@ let Palestras = [
   {
     title: "Creator Economy, olhando para o futuro do empreendedorismo digital",
     instructor: "Adriane Maia Insuela",
-    institution: "PUC Goiás",
     /*desc: `xx`,*/
     date: "18/04",
     time: "19:00",
@@ -281,7 +276,6 @@ let Palestras = [
   { 
     title: 'Ferramenta de desenvolvimento de Software low-code ',
     instructor: 'Daiana Ribeiro',
-    institution: 'PUC Goiás',
     /*desc: `xx`, */
     date: '17/04',
     time: '10:30',
@@ -292,7 +286,6 @@ let Palestras = [
   { 
     title: 'Customer Experience and Artificial Intelligence',
     instructor: 'Patrícia Amaral',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/ 
     date: '18/04',
     time: '20:30',
@@ -303,7 +296,6 @@ let Palestras = [
   {
     title: 'As tecnologias de reconhecimento de imagem assistindo à saúde com o planejamento neurocirúrgico ',
     instructor: 'Wallace Souza Loos',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '12/04',
     time: '19:00',
@@ -314,7 +306,6 @@ let Palestras = [
   {
     title: 'Os efeitos dos microplásticos em sedimentos de lagos e rios europeus ',
     instructor: 'Anne Louise de Melo Dores',
-    institution: 'PUC Goiás',
     /*desc:`xx`,*/
     date: '18/04',
     time: '09:00',
@@ -325,7 +316,6 @@ let Palestras = [
   {
     title: 'Harvesting rare earth elements and critical minerals from coal derived acid mine drainage',
     instructor: 'Dr. Iuri Santos',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '19/04',
     time: '18:45',
@@ -336,7 +326,6 @@ let Palestras = [
   {
     title: 'Por uma crítica da ecologia política: investigando a reprodução social da natureza',
     instructor: 'Camilo Vladimir de Lima Amaral',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '18/04',
     time: '08:00',
@@ -347,7 +336,6 @@ let Palestras = [
   {
     title: 'Processo de seleção e recrutamento de pilotos em empresas aéreas ',
     instructor: 'Antonio Mousinho',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '15/04',
     time: '20:00',
@@ -358,7 +346,6 @@ let Palestras = [
   {
     title: 'Aviação civil, mercado de trabalho, oportunidades',
     instructor: 'Raoni Jacobson',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '15/04',
     time: '20:00',
@@ -368,8 +355,7 @@ let Palestras = [
   
   {
     title: 'Carreira até a Alemanha de aluno egresso da PUC Goiás',
-    instructor: 'Thalles Antônio de Urzedo Machadoa',
-    institution: 'PUC Goiás',
+    instructor: 'Thalles Antônio de Urzedo Machado',
     /*desc: `xx`,*/
     date: '17/04',
     time: '19:00',
@@ -393,7 +379,6 @@ let Palestras = [
   {
     title: 'Meteorologia operacional e sistemas sinóticos ',
     instructor: 'Antônio Marcos Vianna Campos',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '18/04',
     time: '19:00',
@@ -404,40 +389,36 @@ let Palestras = [
   {
     title: 'Manejo da Irrigação ',
     instructor: 'Fernando Rezende da Costa',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '17/04',
     time: '19:00',
     place: 'Online: Teams',
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675704751?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
-  
+  /*
   {
     title: 'Métodos de projeto sustentável ',
-    /*instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',*/
+    /*instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',
     institution: 'PUC Goiás',
-    /*desc: `xx`,*/
+    /*desc: `xx`,
     date: '17/04',
     time: '08:00',
     place: 'Online: Teams',
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675896432?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
-  },
-  
+  },*/
   {
     title: 'Trabalho Remoto Internacional: desafios e perspectivas',
     instructor: 'Flavio Signorelli Mendes e Walter Berchez',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '19/04',
     time: '19:00',
-    place: 'Online:',
+    place: 'Online',
     link: "https://www.youtube.com/watch?v=7uB8vFgdhac"
   },
   
   {
     title: 'IA no mercado profissional',
     instructor: 'João Paulo Tavares',
-    institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '15/04',
     time: '20:30',
@@ -461,7 +442,8 @@ let Palestras = [
     title: "Avaliação de máquinas, equipamentos e bens móveis",
     instructor: "Ricardo Vitoy",
     institution: "PUC Goiás",
-    desc: `Possui graduação em Engenharia Mecânica pela Universidade Federal de Santa Catarina (1993) e mestrado em Engenharia Mecânica pela Universidade Federal de Santa Catarina (1998). Atualmente é consultor - MUSA INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA, engenheiro - TRAVAGLIA ENGENHARIA LTDA, prof especialização em avaliações e perícias do Instituto de Pós-graduação e Graduação, professor de pós graduação do Instituto de Pós-graduação e Graduação, professor do Instituto Federal de Educação, Ciência e Tecnologia de Goiás e professor do ensino superior da Pontifícia Universidade Católica de Goiás. Tem experiência na área de Engenharia Mecânica, com ênfase em Engenharia Mecânica, atuando principalmente nos seguintes temas: avaliação, mecânica dos fluidos, projeto e processamento industrial.`,
+    desc: `O minicurso abordará temas como custos direto e indireto de instalação, depreciação inicial e desmontagem, valor de equipamentos (sucata, econômico, uso e de risco). Classificação de máquinas, equipamentos, instalações e bens industriais em geral. Metodologia de avaliação de máquinas.
+    Vagas limitadas: 20`,
     date: "17/04",
     time: '08:30-12:00',
     place: 'Laboratório: sala 002, bloco J, área III ',
@@ -471,7 +453,7 @@ let Palestras = [
     title: "Máquinas Síncronas: Conceitos básicos, princípios e funcionamento, aspectos construtivos, aplicabilidade.",
     instructor: "Márcio Victor Trevisan",
     institution: "WORKSOLAR IMPORTAÇÃO E DISTRIBUIÇÃO",
-    desc: "Mais de 15 anos de experiência na área empresarial, educacional e engenharia elétrica, tendo atuado em empresas multinacionais de grande porte como: Puc-Goiás, Enel X e WorkSolar; desenvolvendo atividades com foco em engenharia como: projetos elétricos, telecomunicações e usinas fotovoltaicas, data centers , redes de telecomunicações estruturadas em prédios comerciais e industriais, redes de energia estáveis e ininterruptas; pós-graduações em engenharia de controle e automação industrial e gestão de projetos e processos; planejamento, construção e implantação de áreas estratégicas de mercado e gestão de negócios, com resultados frutíferos alcançados. Experiência em negociação com stakeholders, tomadores de decisão para obtenção de condições comerciais favoráveis ao negócio; habilidade de negociação e bom relacionamento interpessoal; capacidade de lidar com mudanças e se adaptar a novas situações com alto grau de resiliência e senso de urgência; foco em superação de metas, tomada de decisão firme, planejada, rápida; concepção de normas técnicas para desenvolvimento de redes de distribuição rurais e urbanas; ABNT NBR 5410-Instalações Elétricas de Baixa Tensão e Normas Regulamentadoras NR-10-Segurança nas Instalações e outras normas técnicas na área de serviços elétricos ; sólida formação acadêmica, principalmente sou graduado em Engenharia Elétrica pela PUC de Goiás e graduado pela Faculdade Única e Pós Graduação do Brasil, complementando meu perfil.",
+    desc: "As máquinas síncronas são dispositivos eletromecânicos que convertem energia mecânica em energia elétrica de forma eficiente. Seu funcionamento baseia-se no princípio da sincronização entre o campo magnético girante do rotor e o campo magnético do estator. Comumente utilizadas em aplicações de geração e transmissão de energia elétrica, as máquinas síncronas oferecem alta eficiência e controle preciso de frequência e tensão. Seus principais componentes incluem o estator, onde está localizado o enrolamento da armadura, e o rotor, que possui enrolamento de campo. Aspectos construtivos como a geometria dos polos e a disposição dos enrolamentos são essenciais para o seu desempenho. Além disso, as máquinas síncronas encontram aplicabilidade em diversas áreas, desde geração de energia em usinas até propulsão de navios e veículos elétricos, destacando-se pela sua versatilidade e confiabilidade em diferentes cenários industriais e tecnológicos.",
     date: "17/04",
     time: "08:00-09:30",
     place: "Auditório 1, área II",
