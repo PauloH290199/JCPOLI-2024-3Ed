@@ -23,6 +23,7 @@
         <button class="button" v-on:click="filterPalestras">17/04</button>
         <button class="button" v-on:click="filterPalestras">18/04</button>
         <button class="button" v-on:click="filterPalestras">19/04</button>
+        <button class="button" v-on:click="filterPalestras">22/04</button>
         <!--<button class="button" v-on:click="filterPalestras">12/05</button>
         <button class="button" v-on:click="filterPalestras">13/05</button>-->
       </div>
